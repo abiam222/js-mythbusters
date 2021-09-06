@@ -1,6 +1,8 @@
 # Get Started
 
-**MythBusters JS** is a JavaScript optimization handbook from a high level point of view, exploring the best practices and performance patterns but always keeping in mind the readability of your code.
+**Spideys Performance** is a optimization handbook from a high level point of view, exploring the best practices and performance patterns but always keeping in mind the readability of your code.
+
+This project is a fork from [js-mythbusters](https://github.com/Kikobeats/js-mythbusters). The project focused on Javascript's optimization techniques but I wanted to expand this to other languages and technologies.
 
 The purpose of this handbook is to write concise tips, easy to find resources, and refreshing your mindset. So that you can continue working on your main coding problems.
 
@@ -10,6 +12,8 @@ Tips are grouped by topics and they have been obtained from engineering posts, b
 
 Performance depends on how people use the programming language. Something with a bad performance today could become better tomorrow.
 
+**Javascript**
+<br>
 In this sense, we updated the tips reflecting new language features or rewritten tips based on internal V8 optimizations. We use [Six Speed](https://kpdecker.github.io/six-speed) and [Node Green](http://node.green) for tracking performance across Node.js versions.
 
 # Write your tip
