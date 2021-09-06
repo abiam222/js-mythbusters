@@ -41,11 +41,11 @@
   </div>
 </div>
 
-# MythBusters JS
+# Spideys Performance
 
-> A JavaScript Handbook exploring perfomance & readibility.
+> A Handbook exploring performance & readibility
 
-[GitHub](https://github.com/Kikobeats/js-mythbusters)
+[GitHub](https://github.com/abiam222/js-mythbusters)
 [Get Started](#get-started)
 
 <!-- background color -->
